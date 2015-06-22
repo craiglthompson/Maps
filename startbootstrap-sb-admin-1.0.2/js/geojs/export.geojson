@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-04T10:43:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/4538445",
+      "properties": {
+        "@id": "relation/4538445",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Business/Latin/Law/Library",
+        "note": "Business Studies and Economics Department e-mail: tmabusinessstudies@morley.leeds.sch.uk Latin Department e-mail: tmalatin@morley.leeds.sch.uk Law Department e-mail: tmalaw@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "type": "multipolygon",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=565930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.607682,
+              53.7425899
+            ],
+            [
+              -1.6079535,
+              53.7424479
+            ],
+            [
+              -1.6077401,
+              53.7423013
+            ],
+            [
+              -1.6074697,
+              53.7424395
+            ],
+            [
+              -1.6075438,
+              53.7424909
+            ],
+            [
+              -1.607682,
+              53.7425899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/4538446",
+      "properties": {
+        "@id": "relation/4538446",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Common Areas",
+        "note": "Post-16 and Year 11 common rooms, Bridge",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6082922,
+              53.7422835
+            ],
+            [
+              -1.6080764,
+              53.7421317
+            ],
+            [
+              -1.6077401,
+              53.7423013
+            ],
+            [
+              -1.6079535,
+              53.7424479
+            ],
+            [
+              -1.6082922,
+              53.7422835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325003064",
+      "properties": {
+        "@id": "way/325003064",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Music Department",
+        "note": "E-mail: tmamusic@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567544",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6069767,
+              53.7437381
+            ],
+            [
+              -1.6071971,
+              53.7436043
+            ],
+            [
+              -1.6069582,
+              53.7434668
+            ],
+            [
+              -1.6067378,
+              53.7436006
+            ],
+            [
+              -1.6069767,
+              53.7437381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325005238",
+      "properties": {
+        "@id": "way/325005238",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "G: Art & Tech 1: ICT & Science",
+        "note": "Science department e-mail: tmascience@morley.leeds.sch.uk ICT department e-mail: tmaict@morley.leeds.sch.uk Art department e-mail: tmaartdesign@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567566"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.607936,
+              53.7420295
+            ],
+            [
+              -1.6077784,
+              53.7419208
+            ],
+            [
+              -1.6071492,
+              53.7422236
+            ],
+            [
+              -1.6073229,
+              53.7423416
+            ],
+            [
+              -1.6077587,
+              53.7421172
+            ],
+            [
+              -1.607936,
+              53.7420295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325013877",
+      "properties": {
+        "@id": "way/325013877",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Reception",
+        "note": "E-mail: tmadesigntechnology@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567588",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6073993,
+              53.7423938
+            ],
+            [
+              -1.6072115,
+              53.742485
+            ],
+            [
+              -1.607395,
+              53.7426155
+            ],
+            [
+              -1.6075876,
+              53.7425201
+            ],
+            [
+              -1.6074697,
+              53.7424395
+            ],
+            [
+              -1.6074431,
+              53.7424235
+            ],
+            [
+              -1.6073993,
+              53.7423938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325162264",
+      "properties": {
+        "@id": "way/325162264",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "History & Drama",
+        "note": "History department e-mail: tmahistory@morley.leeds.sch.uk Drama department e-mail: tmadrama@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567456"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.609264,
+              53.7427702
+            ],
+            [
+              -1.6089635,
+              53.7425676
+            ],
+            [
+              -1.6087648,
+              53.7426632
+            ],
+            [
+              -1.6091612,
+              53.7429512
+            ],
+            [
+              -1.6093598,
+              53.7428556
+            ],
+            [
+              -1.609264,
+              53.7427702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325162405",
+      "properties": {
+        "@id": "way/325162405",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "English & Geography",
+        "note": "English department e-mail: tmaenglish@morley.leeds.sch.uk Geography department e-mail: tmageography@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=565930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6090847,
+              53.7429586
+            ],
+            [
+              -1.6089839,
+              53.742892
+            ],
+            [
+              -1.6088658,
+              53.7428022
+            ],
+            [
+              -1.608495,
+              53.7429836
+            ],
+            [
+              -1.6087139,
+              53.7431401
+            ],
+            [
+              -1.6089527,
+              53.7430232
+            ],
+            [
+              -1.6090847,
+              53.7429586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325162759",
+      "properties": {
+        "@id": "way/325162759",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "PE: Sports Hall",
+        "note": "Physical Education department e-mail: tmape@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6086029,
+              53.7431384
+            ],
+            [
+              -1.6084164,
+              53.7430077
+            ],
+            [
+              -1.6080252,
+              53.7432029
+            ],
+            [
+              -1.6082118,
+              53.7433336
+            ],
+            [
+              -1.6086029,
+              53.7431384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325162783",
+      "properties": {
+        "@id": "way/325162783",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Assembly Hall",
+        "phone": "0113 2532952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6079618,
+              53.7433131
+            ],
+            [
+              -1.60774,
+              53.7431418
+            ],
+            [
+              -1.6076044,
+              53.7431728
+            ],
+            [
+              -1.6075705,
+              53.7432931
+            ],
+            [
+              -1.6074658,
+              53.7433423
+            ],
+            [
+              -1.6076537,
+              53.7434753
+            ],
+            [
+              -1.6079618,
+              53.7433131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325163023",
+      "properties": {
+        "@id": "way/325163023",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Dining Hall",
+        "phone": "0113 2532952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6074658,
+              53.7433423
+            ],
+            [
+              -1.6075705,
+              53.7432931
+            ],
+            [
+              -1.6076044,
+              53.7431728
+            ],
+            [
+              -1.6074719,
+              53.7430908
+            ],
+            [
+              -1.6072655,
+              53.7431983
+            ],
+            [
+              -1.6074658,
+              53.7433423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325164022",
+      "properties": {
+        "@id": "way/325164022",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Hair & Beauty",
+        "note": "Hair and Beauty department e-mail: tmahairbeauty@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567434"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6087783,
+              53.7425875
+            ],
+            [
+              -1.6088906,
+              53.742529
+            ],
+            [
+              -1.6086603,
+              53.7423742
+            ],
+            [
+              -1.6085479,
+              53.7424327
+            ],
+            [
+              -1.6087783,
+              53.7425875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325170395",
+      "properties": {
+        "@id": "way/325170395",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "G: Maths 1: Maths/ MFL 2: Science",
+        "note": "Maths Department e-mail: tmamathematics@morley.leeds.sch.uk MFL Department e-mail: tmamfl@morley.leeds.sch.uk Science Department e-mail: tmascience@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=565930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6087073,
+              53.7425943
+            ],
+            [
+              -1.6085705,
+              53.742488
+            ],
+            [
+              -1.6084176,
+              53.7425594
+            ],
+            [
+              -1.6083693,
+              53.7425292
+            ],
+            [
+              -1.6078919,
+              53.7427481
+            ],
+            [
+              -1.6080958,
+              53.7428861
+            ],
+            [
+              -1.6087073,
+              53.7425943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325170396",
+      "properties": {
+        "@id": "way/325170396",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Social Sci",
+        "note": "Sociology and Psychology Department e-mail: tmasociology@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567577"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6079037,
+              53.7422177
+            ],
+            [
+              -1.6080764,
+              53.7421317
+            ],
+            [
+              -1.607936,
+              53.7420295
+            ],
+            [
+              -1.6077587,
+              53.7421172
+            ],
+            [
+              -1.6079037,
+              53.7422177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325170397",
+      "properties": {
+        "@id": "way/325170397",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Design/Food Technology",
+        "note": "Technology e-mail: tmadesigntechnology@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567588"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6072115,
+              53.742485
+            ],
+            [
+              -1.6073993,
+              53.7423938
+            ],
+            [
+              -1.6071492,
+              53.7422236
+            ],
+            [
+              -1.6069558,
+              53.7423136
+            ],
+            [
+              -1.6072115,
+              53.742485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325172824",
+      "properties": {
+        "@id": "way/325172824",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "H+S & EPR",
+        "note": "Health and social care department e-mail: tmahealthsocial@morley.leeds.sch.uk Ethics, Philosophy, and Religion Department e-mail: tmaepr@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=565930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6078919,
+              53.7427481
+            ],
+            [
+              -1.607682,
+              53.7425899
+            ],
+            [
+              -1.6075876,
+              53.7425201
+            ],
+            [
+              -1.607395,
+              53.7426155
+            ],
+            [
+              -1.6076812,
+              53.7428082
+            ],
+            [
+              -1.6077979,
+              53.742753
+            ],
+            [
+              -1.6078353,
+              53.7427765
+            ],
+            [
+              -1.6078919,
+              53.7427481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325182794",
+      "properties": {
+        "@id": "way/325182794",
+        "addr:city": "Leeds",
+        "addr:postcode": "LS27 0PD",
+        "addr:street": "Fountain Street",
+        "area": "school",
+        "building": "yes",
+        "name": "Media Studies",
+        "note": "Media Studies department e-mail: tmamedia@morley.leeds.sch.uk",
+        "phone": "0113 2532952",
+        "website": "https://www.morley.leeds.sch.uk/index.phtml?d=567522"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6090847,
+              53.7429586
+            ],
+            [
+              -1.6089839,
+              53.742892
+            ],
+            [
+              -1.6088538,
+              53.7429513
+            ],
+            [
+              -1.6089527,
+              53.7430232
+            ],
+            [
+              -1.6090847,
+              53.7429586
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
